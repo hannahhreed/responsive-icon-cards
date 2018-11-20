@@ -28,16 +28,16 @@ img {
 
 h2 {
   font-size: 1.5rem;
-  margin: 0;
+  margin: .75em;
   text-align: left;
 }
 
 .card {
-  margin: 0;
+  margin: .75em;
 }
 
 .card-body {
-  margin: 0;
+  margin: .75em;
   text-align: left;
 }
 
