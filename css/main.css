@@ -29,6 +29,7 @@ img {
 h2 {
   font-size: 1.5rem;
   text-align: left;
+  font-weight: normal;
 }
 
 .card {
@@ -38,6 +39,10 @@ h2 {
 .card-body {
   margin: 0;
   text-align: left;
+}
+
+.card-img {
+  margin-bottom: .75rem;
 }
 
 @media only screen and (min-width: 25em) {
